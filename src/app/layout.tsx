@@ -7,7 +7,7 @@ import CookieConsent from "@/components/CookieConsent"; // ✅ Add this line
 const poppins = Poppins({ subsets: ["latin"], weight: ["400", "600", "700"] });
 
 export const metadata = {
-  title: "S K Manpower Solutions",
+  title: "SK Manpower Solutions - Your Trusted Staffing Partner",
   description: "Expert staffing for hotels, hospitals, corporates & more",
    icons: {
     icon: '/favicon.ico',
