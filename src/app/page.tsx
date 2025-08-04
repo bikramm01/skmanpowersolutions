@@ -72,7 +72,7 @@ const handleSubmit = async (e: React.FormEvent) => {
         transition={{ delay: 0.3, duration: 0.6 }}
         viewport={{ once: true }}
       >
-        S K Manpower Solutions delivers trained professionals for corporate,
+        SK Manpower Solutions delivers trained professionals for corporate,
         hospitality, healthcare, and industrial needs. Quality, trust, and
         operational efficiency — all in one.
       </motion.p>
