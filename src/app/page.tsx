@@ -287,6 +287,7 @@ const handleSubmit = async (e: React.FormEvent) => {
         "partner2.png",
         "partner3.png",
         "partner4.png",
+        "spacecreattorheights.png",
       ].map((logo, i) => (
         <div
           key={i}
