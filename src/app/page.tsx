@@ -282,11 +282,15 @@ const handleSubmit = async (e: React.FormEvent) => {
         "partner5.png",
         "partner6.png",
         "partner7.png",
+        "spacecreattorheights.png",
         // Duplicate logos to make infinite loop seamless
         "partner1.png",
         "partner2.png",
         "partner3.png",
         "partner4.png",
+        "partner5.png",
+        "partner6.png",
+        "partner7.png",
         "spacecreattorheights.png",
       ].map((logo, i) => (
         <div
