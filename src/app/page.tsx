@@ -338,8 +338,7 @@ const handleSubmit = async (e: React.FormEvent) => {
         We&apos;re ready to provide manpower solutions tailored to your needs. Fill the form to order a callback.
       </p>
       <ul className="space-y-3 text-[#003366] font-medium">
-        <li>📞 +91 95822 01277</li>
-        <li>📞 +91 90442 66161</li>
+        <li>📞 +91 84484 96682</li>
         <li>📧 info@skmanpower.com</li>
       </ul>
     </div>
