@@ -150,7 +150,7 @@ export const Footer = () => {
       <h4 className="text-xl font-bold mb-4">Contact Us</h4>
       <ul className="space-y-3 text-sm text-gray-200">
         <li className="flex items-center gap-2">
-          <PhoneCall size={16} /> +91 95822 01277 / +91 90442 66161
+          <PhoneCall size={16} /> +91 84484 96682
         </li>
         <li className="flex items-center gap-2">
           <Mail size={16} /> info@skmanpower.com
