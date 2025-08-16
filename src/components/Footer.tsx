@@ -164,7 +164,7 @@ export const Footer = () => {
 
   {/* Bottom Footer */}
 <div className="mt-10 border-t border-white/20 pt-4 text-center text-sm text-gray-300">
-  <p>&copy; 2025 SK Manpower Solutions. Website design & development by <a href="https://betazu.com" className="text-orange-400 hover:underline" target="_blank" rel="noopener noreferrer">Betazu Technologies</a>.</p>
+  <p>&copy; 2025 SK Manpower Solutions. Website design & development by <a href="https://betazu.vercel.app" className="text-orange-400 hover:underline" target="_blank" rel="noopener noreferrer">Betazu Technologies</a>.</p>
 </div>
 
 </footer>
